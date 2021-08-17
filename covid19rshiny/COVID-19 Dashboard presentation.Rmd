@@ -19,9 +19,9 @@ knitr::opts_chunk$set(echo = FALSE,warning = FALSE,message = FALSE)
 
 This is a simple COVID-19 dashboard
 
-Access the shiny app [here](https://benthecoder.shinyapps.io/COVID-19_Dashboard/)
+Access the shiny app [here](https://z3v3c4-zhiyi-sun.shinyapps.io/covid19rshiny/)
 
-See the github repo that hosts the files [here](https://github.com/benthecoder/JohnHopkinsDataScience/tree/main/9_DevelopingDataProducts/projects/COVID-19_Dashboard)
+See the github repo that hosts the files [here](https://github.com/zsun255/COVID-19-Dashboard.git)
 
 ## COVID-19 Data Hub 
 
